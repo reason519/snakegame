@@ -1,0 +1,2 @@
+class Present:
+    pass
